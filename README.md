@@ -250,7 +250,7 @@ The project aims to identify important customer churn patterns and support data-
 ### Dashboard Preview
 
 #### Customer Churn & Revenue Overview
-![Netflix Customer Churn Dashboard](powerbi\Executive_Summary.png)
+![Netflix Customer Churn Dashboard](./powerbi/Executive_Summary.png)
 
 #### Churn Prediction & ML Insights
 
